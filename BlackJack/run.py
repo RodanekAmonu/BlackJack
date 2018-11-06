@@ -41,8 +41,6 @@ def game():
                     elif p == "S" or p == "s":
                         player.stand()
 
-        if bc:
-            break
 
     for player in players:
         print("player name: {} \t deck value: {}\n".format(player.name,player.deck_value()))
