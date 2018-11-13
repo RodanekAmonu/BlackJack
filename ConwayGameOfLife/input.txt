@@ -1,0 +1,3 @@
+mode='list'
+size=5
+data=[7,12,17]

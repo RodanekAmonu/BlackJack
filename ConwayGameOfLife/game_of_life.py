@@ -38,7 +38,6 @@ class GameMap():
                         if i == j:
                             self.game_map[i].status = True
 
-
     def __repr__(self):
         return self.game_map
 
